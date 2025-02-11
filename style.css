@@ -1,6 +1,6 @@
-@font-face{
-  font-family: water;
-  src: url("https://cdn.glitch.global/97f7bbb3-2cd9-4b34-bbf2-d0a28c71f10b/Water%20Park.ttf?v=1738683075854");
+@font-face {
+  font-family: "Comic Neue", serif;
+  src: url("https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Cormorant:ital,wght@0,300..700;1,300..700&display=swap");
 }
 
 body {
@@ -8,19 +8,16 @@ body {
   text-align: center;
   color: navy;
   margin: auto;
-  font-family: water;
+  font-family: comic Neue;
 }
 
-h1{
+h1 {
   font-size: 30px;
 }
 
 #myCanvas {
-  background-image: url("https://seaviewinfo.com/wp-content/uploads/2018/07/SeaScape.jpg");
+  background-image: url("https://i.pinimg.com/736x/1a/85/42/1a8542a91efa897d9e2a5fd8774d33e2.jpg");
   background-size: 600px 400px;
   border-radius: 300px;
   border: 5px solid white;
 }
-
-
-
